@@ -1,0 +1,162 @@
+{
+  "couser": [
+    {
+      "name": "123",
+      "description": "123",
+      "id": 3
+    },
+    {
+      "name": "123",
+      "description": "213",
+      "id": 4
+    },
+    {
+      "name": "qưewq",
+      "description": "ưqeqwe",
+      "id": 5
+    },
+    {
+      "name": "qưeqwe",
+      "description": "eqwewq",
+      "id": 6
+    },
+    {
+      "name": "qưeweqwe",
+      "description": "ưqeqwe",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "ao nam1",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nam",
+      "price": 1000,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "ao nam 2",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nam",
+      "price": 999,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "ao nu1",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nu",
+      "price": 998,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "ao nu 2",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nu",
+      "price": 997,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "ao nam 3",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nam",
+      "price": 996,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "ao nam 4",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nam",
+      "price": 1001,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "ao nu 3",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nu",
+      "price": 1002,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "ao nu 4",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nu",
+      "price": 1003,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "ao nam 05",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "ao nam",
+      "price": 1005,
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    }
+  ],
+  "admin": [
+    {
+      "un": "thien",
+      "pass": "1008",
+      "id": 1
+    },
+    {
+      "un": "hanh",
+      "pass": "1123",
+      "id": 2
+    },
+    {
+      "un": "anh",
+      "pass": "1321",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "un": "duc123",
+      "pass": "123",
+      "name": "Trong Duc",
+      "phone": "10456123",
+      "email": "duc123@gmail.com",
+      "id": "1"
+    },
+    {
+      "un": "hanh123",
+      "pass": "123",
+      "name": "Truong Hanh",
+      "phone": "0123456789",
+      "email": "hanh123@gmail.com",
+      "id": "2"
+    },
+    {
+      "un": "thien123",
+      "pass": "123",
+      "name": "Hoang Thien",
+      "phone": "0456",
+      "email": "thien@gmail.com",
+      "id": "3"
+    },
+    {
+      "un": "anh123",
+      "pass": "123",
+      "name": "Quyen Anh",
+      "phone": "789456",
+      "email": "anh@gmail.com",
+      "id": "4"
+    },
+    {
+      "un": "trung123",
+      "pass": "123",
+      "name": "Cong Trung",
+      "phone": "0456123",
+      "email": "trung@gmail.com",
+      "id": "5"
+    }
+  ]
+}
